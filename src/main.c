@@ -8,7 +8,7 @@
 static void help_text()
 {
     LOG(LL_INFO, ("Start updater"));
-    LOG(LL_INFO, ("Input ID in dec for flash one sensor"
+    LOG(LL_INFO, ("Input ID in dec for flash one sensor"));
     LOG(LL_INFO, ("or type '0' for update all connected sensors"));
 }
 
